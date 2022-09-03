@@ -1,0 +1,15 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "tech9-flatten": "^1.0.0"
+  },
+  "scripts": {
+    "test": "ts-node test.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
